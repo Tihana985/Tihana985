@@ -14,7 +14,7 @@
 
   
 - 🌱 I’m currently learning:
-- Web Services & APIs
+- ReactJs
 
 
 - 📫 How to reach me: tihana.obradovic@hotmail.com
