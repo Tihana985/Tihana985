@@ -12,10 +12,6 @@
   
   Open Source: 'Git, GitHub'
 
-  
-- 🌱 I’m currently learning:
-- ReactJs
-
 
 - 📫 How to reach me: tihana.obradovic@hotmail.com
 
