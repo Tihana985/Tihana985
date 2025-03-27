@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tihana, student at SEMOS - "JavaScript Developer of web applications" Academy, learning about:
+- 👋 Hi, I’m Tihana, JavaScript Developer of web applications, learned about:
 
   languages: 'HTML5', 'CSS', 'JavaScript',
   
